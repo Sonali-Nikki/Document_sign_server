@@ -43,7 +43,8 @@ server/
 ## ⚙️ Installation
 
 ```bash
-git clone <repo-url>
+git clone  https://github.com/Sonali-Nikki/Document_sign_server.git 
+
 cd server
 npm install
 ````
